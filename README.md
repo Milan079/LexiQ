@@ -111,4 +111,3 @@ git commit -m "Initial commit: LexiQ Legal QA System"
 git push -u origin main
 ````
 
-Let me know if you want me to generate the `requirements.txt` from the actual imports in the notebooks now.
