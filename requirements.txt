@@ -1,0 +1,7 @@
+transformers
+peft
+datasets
+langchain
+faiss-cpu
+pypdf
+sentence-transformers
